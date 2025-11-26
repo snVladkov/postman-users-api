@@ -1,4 +1,5 @@
 <?php
+// ME1Q8C enjoy the code :)
 header('Content-Type: application/json; charset=utf-8');
 header('Access-Control-Allow-Origin: *');
 
